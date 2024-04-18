@@ -1,0 +1,290 @@
+
+body{
+    font-family: "Manrope", sans-serif;
+}
+
+
+nav{
+    display: flex;
+    margin: 0 300px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+}
+
+
+ul{
+    display: flex;
+    list-style: none;
+
+}
+
+li a{
+    margin-right: 27px;
+    text-decoration: none;
+}
+
+
+a{
+    color: var(--Dark-02, #424247);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#home{
+    color: #FF4240;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+.logo{
+    color: #131318;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+
+.span{
+    color: #FF4240;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+
+
+
+
+.get{
+    background-color: #ff4240;
+    color: #fff;
+    border-radius: 8px;
+    padding: 15px;
+    border: none;
+    font-size: 20px;
+}
+
+
+.image-section{
+    background-image: url('./assets/1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1170px;
+    height: 550px;
+    margin: 0 300px;
+    margin-top: 58px;
+    display: flex;
+}
+
+
+.box-icon{
+    margin-top: 483px;
+    display: flex;
+    margin-left: 40px;
+    gap: 16px;
+}
+
+
+
+#left{
+    background-color: #131318;
+    color: #fff;
+    border-radius: 21px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    width: 40px;
+    height: 40px;
+}
+#right{
+    background-color: #131318;
+    color: #fff;
+    border-radius: 21px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+
+h2{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.header-background{
+    margin-left: 525px;
+    margin-top: 385px;
+    margin-right: 50px;
+    background-color: #131318;
+    margin-bottom: 32px;
+    border-radius: 16px;
+    width: 700px;
+    height: 150px;
+}
+
+
+h2{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 800;
+    margin: 32px;
+
+}
+
+h4{
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+
+h3{
+    color: #131318;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    margin-top: 32px;
+}
+
+
+#html-pra{
+    color: rgba(19, 19, 24, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 24px;
+    margin: 0 300px;
+}
+
+#heading{
+    color: #131318;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+.card-section-container-css{
+    display: flex;
+    gap: 30px;
+    padding-top: 48px;
+    margin: 0 300px;
+}
+
+
+#image-card{
+    width: 120px;
+    height: 120px;
+    margin-left: 60px;
+}
+
+#card-css-text{
+    color: rgba(19, 19, 24, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+
+
+
+#p-s{
+    color: #131318;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    margin-top: 32px;
+}
+
+#d-p{
+    color: rgba(19, 19, 24, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+}
+
+
+
+.line{
+    margin: 0 300px;
+    margin-top: 100px;
+}
+
+
+.line-2{
+    margin: 0 300px;
+    margin-top: 32px;
+}
+
+
+.line-3{
+    margin: 0 300px;
+    margin-top: 100px;
+}
+
+.line-4{
+    margin: 0 300px;
+    margin-top: 32px;
+}
+
+
+.box-image-container{
+    gap: 24px;
+    display: flex;
+    margin: 0 300px;
+    margin-top: 48px
+}
+
+.div-1{
+    background-image: url('./assets/Rectangle\ 4\ 2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 573px;
+    height: 338px;
+    flex-shrink: 0;
+}
+
+
+
+.div-2{
+    background-image: url('./assets/3\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 573px;
+    height: 338px;
+    flex-shrink: 0;
+}
+
+.div-1-title-section-container{
+    margin-top: 95px;
+    margin-left: 40px;
+    color: #FFF;
+    font-size: 28px;
+
+}
+
+.div-1-text-section-container-number{
+    margin-left: 40px;
+    color: #FFF;
+}
+
+
+
+.register-now{
+    margin-left: 40px;
+    background-color: #FF4240;
+    color: #fff;
+    padding: 10px 22px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+
