@@ -288,3 +288,134 @@ h3{
 }
 
 
+
+
+.div-4{
+    background-image: url('./assets/4\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1170px;
+    height: 450px;
+    border-radius: 16px;
+    margin: 0 300px;
+}
+
+
+.div-1-title-section-container-1{
+    margin-left: 40px;
+    color: #FFF;
+    padding-top: 240px;
+    font-size: 28px;
+}
+
+.div-1-text-section-container-number-2{
+    margin-left: 40px;
+    color: #FFF;
+    margin-right: 610px;
+}
+
+
+
+
+.line-5{
+    padding-top: 100px;
+    margin: 0 300px;
+}
+
+
+
+
+
+.div-text-container-name{
+    margin-top: 32px;
+}
+
+.o-p{
+    color: #131318;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+
+
+
+.d-a{
+    color: rgba(19, 19, 24, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+}
+
+
+.line-6{
+    margin-top: 32px;
+    margin: 0 300px;
+}
+
+
+
+.svg{
+    display: flex;
+}
+
+
+.svg-container{
+    display: flex;
+    gap: 16px;
+    margin-left: 224px;
+    margin-top: 74px;
+
+}
+
+svg{
+    margin-top: 18px;
+    margin-right: 8px;
+}
+
+
+.box{
+    display: flex;
+    align-items: center;
+}
+
+.p-0{
+    color: #FF4240;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px; /* 144.444% */
+}
+
+.svg-1{
+    margin-bottom: 20px;
+}
+
+.free-d{
+    color: rgba(19, 19, 24, 0.50);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.heading-4{
+    color: #131318;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+
+.do{
+    color: rgba(19, 19, 24, 0.60);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+}
+
+.flex-container{
+    display: flex;
+}
